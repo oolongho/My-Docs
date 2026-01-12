@@ -34,7 +34,9 @@ metaLinks:
 
 <p align="center">巴拉巴拉</p>
 
-<p align="center"><a href="https://app.gitbook.com/o/2VvPGKwwPo7HTdTo6NsY/s/ijrIN6kPzg766E621Srt/" class="button primary" data-icon="book-open">开始阅读</a> <a href="https://qm.qq.com/q/c68kaLMV4Q?from=tim" class="button secondary" data-icon="comment-question">联系乌龙茶</a></p>
+<p align="center"><a href="https://app.gitbook.com/o/2VvPGKwwPo7HTdTo6NsY/s/ijrIN6kPzg766E621Srt/" class="button primary" data-icon="book-open">开始阅读</a> </p>
+
+<p align="center"><a href="https://qm.qq.com/q/c68kaLMV4Q?from=tim" class="button secondary" data-icon="comment-question">联系方式</a></p>
 {% endcolumn %}
 
 {% column valign="middle" %}
