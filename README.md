@@ -1,25 +1,3 @@
----
-description: Welcome to your team’s developer platform
-icon: mug-hot
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
----
-
 # Oolong Docs
 
 {% columns %}
@@ -35,5 +13,3 @@ metaLinks:
 <div align="center"><figure><img src=".gitbook/assets/按钮.gif" alt="" width="188"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><h3><mark style="color:$primary;">我是乌龙茶</mark></h3></td><td>我是乌龙茶</td><td></td><td data-object-fit="cover"><a href=".gitbook/assets/1E0A5AD9E93E07C15FDDEF32000EE59A.png">1E0A5AD9E93E07C15FDDEF32000EE59A.png</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><h3><mark style="color:$primary;">我爱玩 MC</mark></h3></td><td>我爱玩 MC</td><td></td><td><a href=".gitbook/assets/D90AB5E75E48525412430CC7D6D91B6D.png">D90AB5E75E48525412430CC7D6D91B6D.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
