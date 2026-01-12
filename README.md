@@ -23,11 +23,11 @@ metaLinks:
 
 <h2 align="center"><mark style="color:$primary;">Woolong Docs</mark></h2>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><h3>我是乌龙茶</h3></td><td>我是乌龙茶</td><td></td><td><a href=".gitbook/assets/1E0A5AD9E93E07C15FDDEF32000EE59A.png">1E0A5AD9E93E07C15FDDEF32000EE59A.png</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><h3>我爱玩mc</h3></td><td>我爱玩mc</td><td></td><td><a href=".gitbook/assets/D90AB5E75E48525412430CC7D6D91B6D.png">D90AB5E75E48525412430CC7D6D91B6D.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><h3><mark style="color:$primary;">我是乌龙茶</mark></h3></td><td>我是乌龙茶</td><td></td><td><a href=".gitbook/assets/1E0A5AD9E93E07C15FDDEF32000EE59A.png">1E0A5AD9E93E07C15FDDEF32000EE59A.png</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><h3><mark style="color:$primary;">我爱玩mc</mark></h3></td><td>我爱玩mc</td><td></td><td><a href=".gitbook/assets/D90AB5E75E48525412430CC7D6D91B6D.png">D90AB5E75E48525412430CC7D6D91B6D.png</a></td></tr></tbody></table>
 
 {% columns %}
 {% column valign="middle" %}
-<h3 align="center">开始阅读</h3>
+<h3 align="center"><mark style="color:$primary;">开始阅读</mark></h3>
 
 <p align="center">巴拉巴拉</p>
 
