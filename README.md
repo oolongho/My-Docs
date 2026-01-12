@@ -32,7 +32,7 @@ metaLinks:
 {% endcolumn %}
 
 {% column valign="middle" %}
-<div align="left"><figure><img src=".gitbook/assets/按钮.gif" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/按钮.gif" alt="" width="188"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
 
